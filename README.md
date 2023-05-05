@@ -1,6 +1,5 @@
 # app-dev
 My first repository
-write some information about your favorite series/movie using different Markdown elements
 # My Favorite series/movie
 ## Series
 1. South Park
