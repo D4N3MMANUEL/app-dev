@@ -38,7 +38,10 @@ write some information about your favorite series/movie using different Markdown
 - Home Alone
 - Planet of the Apes
 - Harry potter
--> Jurassic Park
-->> Jurassic World
--> The Lord of the Ring
-->> The Hobbits
+
+
+> Jurassic Park
+>> Jurassic World
+
+> The Lord of the Ring
+>> The Hobbits
