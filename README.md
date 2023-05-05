@@ -19,14 +19,13 @@ write some information about your favorite series/movie using different Markdown
 1. Attack on Titans
 1. One punch man
 1. Vinland Saga
-
-**Full metal alchemist Brotherhood**
- *Demon Slayer*
- _Toradora_
- *The melancholy of Haruhi suzumiya*
- __Stranger things__
- **Adventure times**
-~~Mr bean~~
+1. **Full metal alchemist Brotherhood**
+1. *Demon Slayer*
+1. _Toradora_
+1. *The melancholy of Haruhi suzumiya*
+1. __Stranger things__
+1. **Adventure times**
+1. ~~Mr bean~~
 
 ---
 
