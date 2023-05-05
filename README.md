@@ -19,6 +19,7 @@ write some information about your favorite series/movie using different Markdown
 1. Attack on Titans
 1. One punch man
 1. Vinland Saga
+
 **Full metal alchemist Brotherhood**
  *Demon Slayer*
  _Toradora_
