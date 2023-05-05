@@ -24,7 +24,7 @@ write some information about your favorite series/movie using different Markdown
  _Toradora_
  *The melancholy of Haruhi suzumiya*
  __Stranger things__
- _Adventure times_
+ **Adventure times**
 ~~Mr bean~~
 
 ---
