@@ -24,8 +24,8 @@ write some information about your favorite series/movie using different Markdown
 1. _Toradora_
 1. *The melancholy of Haruhi suzumiya*
 1. __Stranger things__
-1. **Adventure times**
-1. ~~Mr bean~~
+1. ~~Adventure times~~
+1. **Mr bean**
 
 ---
 
@@ -38,7 +38,7 @@ write some information about your favorite series/movie using different Markdown
 - Home Alone
 - Planet of the Apes
 - Harry potter
-> Jurassic Park
->> Jurassic World
-> The Lord of the Ring
->> The Hobbits
+-> Jurassic Park
+->> Jurassic World
+-> The Lord of the Ring
+->> The Hobbits
